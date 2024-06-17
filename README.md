@@ -11,7 +11,7 @@ More concentration should be given to ages 20-40, they produced the highest reve
 The Northern part of the country (Kano and Abuja) brought the highest revenue. Consider increasing the number of pick up and delivery points to encourage ease of shopping and supplying other neighboring states and possibly a walk-in store. With Walk-in, they can include complimentary items and services liike spa and other body treatment to increase revenue.
 Newly acquired customers brought in the highest revenue for both years.
 
-CUSTOMER ANALYSIS DASHBOARD(images/CUSTOMER ANALYSIS DASHBOARD.png)
+[CUSTOMER ANALYSIS DASHBOARD](images/CUSTOMER ANALYSIS DASHBOARD.png)
 
 ## Data Source
 
