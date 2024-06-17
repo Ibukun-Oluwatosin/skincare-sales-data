@@ -17,11 +17,12 @@ The data used for this analysis is contained in the `data/skincare_sales_data.cs
 
 ## Tools and Technologies
 
-- **Python**: Used for data cleaning and initial analysis. Key libraries include Pandas for data manipulation and Matplotlib for basic visualizations.
+- **R**: Used for data cleaning and initial analysis. Key libraries include Pandas for data manipulation and Matplotlib for basic visualizations.
 - **Tableau**: Used for creating the final interactive dashboard.
+- **excel spreadsheet**: clean data, create pivot tables and basic visualizations
 
 ## Steps to Reproduce
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/username/sales-data-dashboard.git
+   git clone https://ibukun-oluwatosin.github.io/skincare-sales-data/
